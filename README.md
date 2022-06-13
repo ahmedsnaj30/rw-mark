@@ -1,5 +1,5 @@
 # RandWriter
-Analyze transitions between a fixed number of characters (k-grams) in a piece of text, and create a random writer that could randomly generate text that would come next using the Markov model. Utilized the discrete distribution of frequencies (character’s frequency / k-gram frequency) with the Mersenne twister to construct a randomly generated string of any length given by the user. 
+Analyze transitions between a fixed number of characters (k-grams) in a piece of text, and create a random writer that could randomly generate text that would come next using the Markov model. Utilized the discrete distribution of frequencies (character’s frequency / k-gram frequency) with the Mersenne Twister Engine to construct a randomly generated string of any length given by the user. 
 
 Commands:\
 ``make``\
